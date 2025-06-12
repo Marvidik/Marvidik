@@ -25,12 +25,20 @@ I love working on high-impact projects, mentoring other devs, and solving comple
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: Django, Django REST Framework, FastAPI
-- **Tools**: Git, Docker, Celery
-- **Cloud**: Google Cloud, AWS
-- **Database**: PostgreSQL, SQLite
-- **Other**: GitHub Actions, REST API Design, Event-Driven Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
@@ -78,9 +86,9 @@ Federal University of Technology, Owerri (FUTO)
 ## 📫 Let’s Connect
 
 <a href="mailto:ebubeidika@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ebubeidika@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-ebubeidika@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Marvidik">
-  <img src="https://img.shields.io/badge/GitHub-Marvidik-181717?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Marvidik-181717?style=for-the-badge&logo=github" />
 </a>
